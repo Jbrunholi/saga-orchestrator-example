@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/CodeChunks.db
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/CodeChunks.db-shm
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/CodeChunks.db-wal
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/SemanticSymbols.db
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/SemanticSymbols.db-shm
+/.vs/saga-orchestrator-example/CopilotIndices/17.13.441.19478/SemanticSymbols.db-wal
